@@ -4,5 +4,8 @@
 public class View {
 
     private String name;
-    private String age;
+    private String name2;
+    private String name3;
+
+    
 }
