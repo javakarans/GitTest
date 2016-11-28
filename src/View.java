@@ -3,5 +3,5 @@
  */
 public class View {
 
-
+    private String name;
 }
