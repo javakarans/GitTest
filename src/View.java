@@ -4,5 +4,4 @@
 public class View {
 
     private String name;
-    private String family;
 }
